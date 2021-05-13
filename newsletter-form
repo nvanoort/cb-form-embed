@@ -115,7 +115,34 @@
                     width: auto !important;
                 }
             </style><div class=""><div class="wForm" id="4701499-WRPR" dir="ltr">
-<div class="codesection" id="code-4701499"></div>
+<div class="codesection" id="code-4701499"><style type="text/css">
+
+.wFormContainer {
+		margin-top:-100px;
+}
+.wFormContainer .label.preField {
+font-family: 'Montserrat';
+font-weight: 700;
+}
+.wFormContainer .actions .primaryAction {
+    font-family: 'Montserrat' !important;
+    border-radius: 5px;
+    background-color: #000;
+    border: 2px solid #000 !important;
+}
+.wFormContainer .actions .primaryAction:hover {
+    font-family: 'Montserrat';
+}
+.wForm .oneField input {
+  height: 40px !important;
+}
+.wFormContainer .wForm .inputWrapper select:not([multiple]) {
+  height: 40px !important;
+  }
+.wFormContainer .wForm .validate-email {
+  height: 40px !important;
+  }
+</style></div>
 <form method="post" action="https://www.tfaforms.com/responses/processor" class="hintsBelow labelsAbove" id="4701499" role="form">
 <div id="tfa_23" class="section inline group">
 <div class="oneField field-container-D    " id="tfa_1-D">
@@ -155,7 +182,7 @@
 </div>
 <div class="actions" id="4701499-A"><input type="submit" data-label="SUBSCRIBE" class="primaryAction" id="submit_button" value="SUBSCRIBE"></div>
 <div style="clear:both"></div>
-<input type="hidden" value="4701499" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="4ca0803cd95efba44229aa378f5a9564" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="" name="tfa_dbWorkflowSessionUuid" id="tfa_dbWorkflowSessionUuid"><input type="hidden" value="26" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
+<input type="hidden" value="4701499" name="tfa_dbFormId" id="tfa_dbFormId"><input type="hidden" value="" name="tfa_dbResponseId" id="tfa_dbResponseId"><input type="hidden" value="4ca0803cd95efba44229aa378f5a9564" name="tfa_dbControl" id="tfa_dbControl"><input type="hidden" value="" name="tfa_dbWorkflowSessionUuid" id="tfa_dbWorkflowSessionUuid"><input type="hidden" value="30" name="tfa_dbVersionId" id="tfa_dbVersionId"><input type="hidden" value="" name="tfa_switchedoff" id="tfa_switchedoff">
 </form>
 </div></div><div class="wFormFooter"><p class="supportInfo"><br></p></div>
   <p class="supportInfo" >
